@@ -12,6 +12,7 @@ Header p{
 	padding-right: 100px;
 	position: sticky;
 	top:0;
+	font-size: 20px;
 }
 
 middle{
@@ -25,4 +26,7 @@ middle hsw1 p{
 }
 gr{
 	color: darkgrey;
+}
+footer p{
+	text-align: right;
 }
