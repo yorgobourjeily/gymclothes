@@ -1,0 +1,28 @@
+Header p{
+	margin: 0;
+	color: linear-gradient(green, red);
+	font-size: 50px;
+	text-align: center;
+	border:2px solid black;
+}
+ Header h{
+	display: flex;
+	justify-content: space-around;
+	box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
+	padding-right: 100px;
+	position: sticky;
+	top:0;
+}
+
+middle{
+	display: flex;
+	justify-content: space-between;
+	margin: 40px;
+
+}
+middle hsw1 p{
+	border-bottom: 2px solid black;
+}
+gr{
+	color: darkgrey;
+}
