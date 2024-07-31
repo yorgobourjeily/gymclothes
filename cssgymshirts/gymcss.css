@@ -1,29 +1,43 @@
-
 body{
 	margin: 0px;
 }
 
-Header p{
+#hheader{
 	margin-top: 15px;
-	margin-bottom: 0px ;
-	color: linear-gradient(green, red);
+	margin-bottom: 50px ;
 	font-size: 50px;
 	text-align: center;
-	border:4px solid black;
+	border:4px solid grey;
 	border-left: 0px;
 	border-right: 0px;
+	background-color: black;
+	color: white;
+	position: absolute;
+	width: 100%;
+	z-index: 9999;
+	top: 0;
+	
+	
 
 }
  Header h{
+
+	position: fixed;
+	top: 0px;
+	width: 100%;
+	z-index:2;
 	display: flex;
 	justify-content: space-around;
-	box-shadow: 0px 10px 12px rgba(0, 0, 0, 0.2);
+    font-size: small;
 	padding-right: 100px;
-	position: sticky;
-	top:0;
-	font-size: 50px;
+ 	font-size: 50px;
 	padding-top: 10px;
-	padding-bottom:5px ;}
+	padding-bottom:5px ;
+    transform: translateX(-40px);
+    background-color: grey;
+    border-bottom: 2px solid black;
+	box-shadow: 2px 2px 5px black ;
+font-weight: lighter;}
 p1{
 	text-align: center;
 }
@@ -32,6 +46,8 @@ middle{
 	display: flex;
 	justify-content: space-between;
 	margin: 40px;
+	padding-top: 90px;
+	margin-top: 50px;
 
 }
 middle hsw1 p{
@@ -45,14 +61,17 @@ footer p{
 }
 
 #sp{
-transform: translateX(-70px);
+transform: translateX(-50px);
 }
 #ts{
 
-transform: translateX(140px);
+transform: translateX(100px);
 }
 
 #imgs{
 
 border: 1px solid gray;
+}
+.stick {
+	padding-top: 100px;
 }
