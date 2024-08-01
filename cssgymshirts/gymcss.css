@@ -75,3 +75,33 @@ border: 1px solid gray;
 .stick {
 	padding-top: 100px;
 }
+psw1:hover{ 
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/CrestCargoJoggerGSBlackA5A8Y-BB2J-0460_b06b1eac-f5bf-4b95-8982-a0945bf94634_1920x.jpg?v=1708539007');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
+psw2:hover{ 
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/RestDayCargoPant-Black-A3A9O-BBBB-0851_eed18fbb-c915-40f7-85af-9b8e61a9d3cc_1920x.jpg?v=1708539005');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
+psh1:hover{
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/SportShortBlackA3A1Q-BBBB-0213.20_1920x.jpg?v=1722505028');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
+psh2:hover{
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/Heritage5ShortGSOnyxGrey-ACIDWASHSMALLBALLA4A8K-GB8N-0094_1920x.jpg?v=1695117295');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
+pTsh1:hover{
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/RaglanBlockLSLightGreyCoreMarl-GSBlackA6A6P-BCLN_8cd352be-d912-419a-9dad-441149ef1611_1920x.jpg?v=1716460741');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
+pTsh2:hover{
+	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/LegacyT-ShirtGSNavyA5A3B-UB9P0047_a7603374-3e3e-4053-bacc-4e245d64c8fc_1920x.jpg?v=1708089514');
+	width: 384px; height: 458px;
+	border: 1px solid gray;
+}
