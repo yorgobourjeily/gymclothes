@@ -112,12 +112,13 @@ pTsh2:hover{
 	bottom: 30px;
 	font-size: 20px;
 	display: inline-block;
-	transform: translateX(1370px);
+	transform: translateX(1388px);
 	border: 2px solid gray;
 	background-color: black;
 	padding: 5px;
 	color: white;
 	margin-bottom: 0px;
+	border-radius: 5px;
 }
 #alignright{
 	text-align: right;
@@ -131,5 +132,5 @@ margin-bottom: 0px;
 transform: translateY(3px);
 }
 div1 a:hover{
-	color:blue;
+	color:gray;
 }
