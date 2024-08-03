@@ -126,10 +126,10 @@ div1 a{
 	text-decoration: none;
 	color: white;
 }
-div1 a:hover{
-	color:blue;
-}
 svg{
 margin-bottom: 0px;
 transform: translateY(3px);
+}
+div1 a:hover{
+	color:blue;
 }
