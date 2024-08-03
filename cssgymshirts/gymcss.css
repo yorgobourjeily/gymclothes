@@ -49,6 +49,7 @@ middle{
 	margin: 40px;
 	padding-top: 90px;
 	margin-top: 50px;
+	margin-bottom: 0px;
 
 }
 middle hsw1 p{
@@ -105,4 +106,27 @@ pTsh2:hover{
 	content:url('https://cdn.shopify.com/s/files/1/1367/5207/files/LegacyT-ShirtGSNavyA5A3B-UB9P0047_a7603374-3e3e-4053-bacc-4e245d64c8fc_1920x.jpg?v=1708089514');
 	width: 384px; height: 458px;
 	border: 1px solid gray;
+}
+.contactus{
+	position: sticky;
+	bottom: 30px;
+	font-size: 20px;
+	display: inline-block;
+	transform: translateX(1370px);
+	border: 2px solid gray;
+	background-color: black;
+	padding: 5px;
+	color: white;
+	margin-bottom: 0px;
+}
+#alignright{
+	text-align: right;
+}
+div1 a{
+	text-decoration: none;
+	color: white;
+}
+svg{
+margin-bottom: 0px;
+transform: translateY(3px);
 }
